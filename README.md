@@ -121,8 +121,10 @@ How might you resolve this issue?
 
 
 Next Steps
+
 16.
-Congratulations! In this project, you saw how EDA can help with the initial data inspection and cleaning process. This is an important step as it helps to keep your datasets clean and reliable.
+Congratulations! In this project, you saw how EDA can help with the initial data inspection and cleaning process. 
+This is an important step as it helps to keep your datasets clean and reliable.
 
 Here are some ways you might extend this project if you’d like:
 
